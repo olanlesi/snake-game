@@ -1,1 +1,1 @@
-# data-entry-project
+# snake-game
